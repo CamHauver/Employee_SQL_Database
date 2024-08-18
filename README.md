@@ -1,5 +1,5 @@
 # Employee_SQL_Database
-This is a data modeling, data engineering, and data analysis project on anonymous company employment from 1980-1990 . The goal is to model the data from various original csv files into a new SQL database.
+This is a data modeling, data engineering, and data analysis project on anonymous company employment from 1980-1990 . The goal is to model the data from various original csv files into a new SQL database and provide an analysis.
 
 Open the EmployeeSQL directory for project deliverables
 
